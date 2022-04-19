@@ -9,6 +9,5 @@ A maze game, you have to take the red circle out of the maze
 ## Features:
 To start the game click "start"<br>
 
-To move the player (red circle) we will use the keyboard keys -
-<p align = "center">
-    <img src = https://github.com/amitha511/javaFX-maze/blob/master/resources1/keys.jpg width="100" height="100" />
+To move the player (red circle) we will use the keyboard keys - <p align = "center">
+    <img src = https://github.com/amitha511/javaFX-maze/blob/master/resources1/keys.jpg width="150" height="100" />
